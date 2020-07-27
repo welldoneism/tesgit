@@ -1,1 +1,2 @@
 hi ini aku pertama kali coba git lho
+ini aku udh di v1
